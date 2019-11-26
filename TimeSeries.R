@@ -1,5 +1,5 @@
-#Computer Lab: Time Series Data
-#Exercise 1: Regression-based Model & Smoothing Methods
+# Time Series Data
+#Regression-based Model & Smoothing Methods
 install.packages('forecast')
 install.packages("zoo")
 
