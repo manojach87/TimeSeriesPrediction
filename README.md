@@ -2,6 +2,7 @@
 * Time series
 * Seasonality
 * Trend
+* Residuals
 
 # Methods
 * Linear Regression
